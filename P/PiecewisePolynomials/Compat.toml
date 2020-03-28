@@ -1,2 +1,4 @@
 [0]
+Documenter = "0.0.0 - 0.24"
+Polynomials = "0.0.0 - 0.6"
 julia = "1"

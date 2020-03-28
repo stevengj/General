@@ -1,2 +1,4 @@
 [0]
+DataStructures = "0.0.0 - 0.17"
+ProximalBase = "0.0.0 - 0.2"
 julia = "1"

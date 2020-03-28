@@ -1,4 +1,4 @@
 [0]
-NamedArrays = "0"
-RecipesBase = "0"
+NamedArrays = "0.0.0 - 0.9"
+RecipesBase = "0.0.0 - 0.8"
 julia = ["0.7", "1"]

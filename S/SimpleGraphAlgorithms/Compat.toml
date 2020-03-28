@@ -1,12 +1,12 @@
 [0]
-Cbc = "0"
-JuMP = "0"
-Polynomials = "0"
-SimpleGraphs = "0"
-SimplePartitions = "0"
+Cbc = "0.0.0 - 0.6"
+JuMP = "0.0.0 - 0.21"
+Polynomials = "0.0.0 - 0.6"
+SimpleGraphs = "0.0.0 - 0.3"
+SimplePartitions = "0.0.0 - 0.2"
 
 ["0-0.2"]
-MathProgBase = "0"
+MathProgBase = "0.0.0 - 0.7"
 julia = ["0.7", "1"]
 
 ["0.3-0"]

@@ -1,2 +1,5 @@
 [0]
+HTTP = "0.0.0 - 0.8"
+JSON2 = "0.0.0 - 0.3"
+OrderedCollections = "0.0.0 - 1"
 julia = "1"

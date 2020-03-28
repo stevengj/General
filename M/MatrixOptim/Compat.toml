@@ -1,2 +1,8 @@
 [0]
+CPLEX = "0.0.0 - 0.6"
+GLPKMathProgInterface = "0.0.0 - 0.4"
+Gurobi = "0.0.0 - 0.7"
+JuMP = "0.0.0 - 0.21"
+MathProgBase = "0.0.0 - 0.7"
+PrettyTables = "0.0.0 - 0.8"
 julia = "1"

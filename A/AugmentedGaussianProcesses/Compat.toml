@@ -1,31 +1,48 @@
+[0]
+SpecialFunctions = "0.0.0 - 0.10"
+
 ["0-0.3"]
 julia = ["0.7", "1"]
 
 ["0-0.4.1"]
-Clustering = "0"
-Distances = "0"
-Distributions = "0"
 Expectations = "0-1"
 FileIO = "0-1"
-JLD2 = "0"
 LaTeXStrings = "0-1"
-SpecialFunctions = "0"
-StatsBase = "0"
-ValueHistories = "0"
+
+["0-0.5"]
+Clustering = "0.0.0 - 0.13"
+Distances = "0.0.0 - 0.8"
+Distributions = "0.0.0 - 0.21"
+JLD2 = "0.0.0 - 0.1"
+StatsBase = "0.0.0 - 0.32"
+ValueHistories = "0.0.0 - 0.5"
 
 ["0.4-0.4.1"]
-Colors = "0"
-DataFrames = "0"
-GradDescent = "0"
-MLKernels = "0"
-StatsFuns = "0"
+MLKernels = "0.0.0 - 0.4"
 julia = "1.1-1"
 
+["0.4-0.5"]
+Colors = "0.0.0 - 0.12"
+DataFrames = "0.0.0 - 0.19"
+GradDescent = "0.0.0 - 0.3"
+StatsFuns = "0.0.0 - 0.8"
+
 ["0.4.0"]
-Makie = "0"
+Makie = "0.0.0 - 0.9"
+
+["0.4.2-0.5"]
+Expectations = "0.0.0 - 1"
+FileIO = "0.0.0 - 1"
+LaTeXStrings = "0.0.0 - 1"
 
 ["0.4.2-0.6"]
 julia = "1.1.0-1"
+
+["0.4.3-0.5"]
+ProgressMeter = "0.0.0 - 1"
+
+["0.5"]
+FastGaussQuadrature = "0.0.0 - 0.4"
 
 ["0.6"]
 DataFrames = "0.19.4-0.19"
@@ -42,8 +59,7 @@ FastGaussQuadrature = "0.4"
 ForwardDiff = "0.10.6-0.10"
 PDMats = "0.9"
 ProgressMeter = "1"
-RecipesBase = "0"
-SpecialFunctions = "0"
+RecipesBase = "0.0.0 - 0.8"
 StatsBase = "0.32"
 
 ["0.7-0"]

@@ -1,2 +1,7 @@
 [0]
+BinDeps = "0.0.0 - 1"
+Compat = "0.0.0 - 3"
+JuMP = "0.0.0 - 0.21"
+MathOptInterface = "0.0.0 - 0.9"
+MathProgBase = "0.0.0 - 0.7"
 julia = "1"

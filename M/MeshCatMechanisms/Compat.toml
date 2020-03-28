@@ -1,8 +1,8 @@
 ["0-0.0.1"]
 FileIO = "0.1-1"
-GeometryTypes = "0.4-0"
-LightXML = "0.4-0"
-MeshIO = "0.1-0"
+GeometryTypes = "0.4.0 - 0.8"
+LightXML = "0.4.0 - 0.9"
+MeshIO = "0.1.0 - 0.3"
 
 ["0-0.0.2"]
 MeshCat = "0-0.5"
@@ -11,13 +11,15 @@ MeshCat = "0-0.5"
 julia = "0.6-1"
 
 ["0-0.2.0"]
-Interpolations = "0.3.6-0"
+Interpolations = "0.3.6 - 0.12"
 
 ["0-0.3"]
-ColorTypes = "0.2-0"
-CoordinateTransformations = "0.4.1-0"
-LoopThrottle = "0"
+LoopThrottle = "0.0.0 - 0.1"
 RigidBodyDynamics = "0.4-1"
+
+["0-0.5"]
+ColorTypes = "0.2.0 - 0.9"
+CoordinateTransformations = "0.4.1 - 0.5"
 
 ["0.0.2-0.2.0"]
 MechanismGeometries = "0-0.1"
@@ -25,55 +27,52 @@ MechanismGeometries = "0-0.1"
 ["0.0.3-0.0"]
 MeshCat = "0.0.2-0.5"
 
-["0.0.6-0.3"]
-GeometryTypes = "0.4-0"
+["0.0.6-0.5"]
+GeometryTypes = "0.4.0 - 0.7"
 
 ["0.1-0.2"]
 MeshCat = "0.2.1-0.5"
 
 ["0.1.0"]
-InteractBase = "0.3-0"
+InteractBase = "0.3.0 - 0.10"
 
 ["0.1.1-0.1"]
 Compat = "0.50-2"
-InteractBase = "0.5-0"
+InteractBase = "0.5.0 - 0.10"
 
 ["0.1.1-0.2.0"]
-DataStructures = "0.7-0"
+DataStructures = "0.7.0 - 0.17"
 
 ["0.2-0.3"]
-InteractBase = "0.8-0"
 julia = ["0.7", "1"]
+
+["0.2-0.5"]
+InteractBase = "0.8.0 - 0.10"
 
 ["0.2.1-0.2"]
 MechanismGeometries = "0.1.2-0.1"
 
 ["0.2.1-0.3"]
-Interpolations = "0.9-0"
 OrderedCollections = "1"
 
-["0.3"]
-MechanismGeometries = "0.2-0"
-MeshCat = "0.6-0"
+["0.2.1-0.5"]
+Interpolations = "0.9.0 - 0.12"
+
+["0.3-0.4"]
+MechanismGeometries = "0.2.0 - 0.4"
+MeshCat = "0.6.0 - 0.9"
 
 ["0.4"]
-MechanismGeometries = "0.2.0-*"
-MeshCat = "0.6.0-*"
-RigidBodyDynamics = "0.4.0-*"
+RigidBodyDynamics = "0.4.0 - 2"
 julia = ["0.7.0", "1"]
 
 ["0.4-0.5"]
-ColorTypes = "0.2.0-*"
-CoordinateTransformations = "0.4.1-*"
-GeometryTypes = "0.4.0-*"
-InteractBase = "0.8.0-*"
-Interpolations = "0.9.0-*"
-LoopThrottle = "0.0.1-*"
-OrderedCollections = "1.0.0-*"
+LoopThrottle = "0.0.1 - 0.1"
+OrderedCollections = "1.0.0 - 1"
 
 ["0.5"]
-MechanismGeometries = "0.4.0-*"
-MeshCat = "0.7.0-*"
+MechanismGeometries = "0.4.0 - 0.4"
+MeshCat = "0.7.0 - 0.9"
 
 ["0.5-0"]
 RigidBodyDynamics = "2"

@@ -1,2 +1,11 @@
 [0]
+Compat = "0.0.0 - 3"
+DocStringExtensions = "0.0.0 - 0.8"
+Interact = "0.0.0 - 0.10"
+Interpolations = "0.0.0 - 0.12"
+LaTeXStrings = "0.0.0 - 1"
+Plots = "0.0.0 - 0.29"
+PyPlot = "0.0.0 - 2"
+Reactive = "0.0.0 - 0.8"
+Reexport = "0.0.0 - 0.2"
 julia = "1"

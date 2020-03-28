@@ -1,7 +1,7 @@
 [0]
-CSV = "0"
-DataFrames = "0"
-HTTP = "0"
+CSV = "0.0.0 - 0.6"
+DataFrames = "0.0.0 - 0.20"
+HTTP = "0.0.0 - 0.8"
 
 ["0-0.1.0"]
 julia = "1"

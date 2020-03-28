@@ -1,6 +1,6 @@
 [0]
-FlexLinearAlgebra = "0"
-Primes = "0"
-SimpleGraphs = "0"
-SimplePartitions = "0"
+FlexLinearAlgebra = "0.0.0 - 0.0.3"
+Primes = "0.0.0 - 0.4"
+SimpleGraphs = "0.0.0 - 0.3"
+SimplePartitions = "0.0.0 - 0.2"
 julia = ["0.7", "1"]

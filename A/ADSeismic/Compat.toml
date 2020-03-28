@@ -1,9 +1,9 @@
 [0]
 ADCME = "0.4-0.5"
 Conda = "1"
-MAT = "0"
-Optim = "0"
-Parameters = "0"
+MAT = "0.0.0 - 0.7"
+Optim = "0.0.0 - 0.20"
+Parameters = "0.0.0 - 0.12"
 ProgressMeter = "1"
 PyCall = "1.91.0-1"
 PyPlot = "2.8.0-2"

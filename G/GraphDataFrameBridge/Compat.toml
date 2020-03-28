@@ -1,5 +1,5 @@
 [0]
-DataFrames = "0.13-0"
+DataFrames = "0.13.0 - 0.20"
 LightGraphs = "1"
-MetaGraphs = "0"
+MetaGraphs = "0.0.0 - 0.6"
 julia = ["0.7", "1"]

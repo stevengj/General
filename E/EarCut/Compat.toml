@@ -1,4 +1,4 @@
 [1]
-BinaryProvider = "0"
-GeometryTypes = "0"
+BinaryProvider = "0.0.0 - 0.5"
+GeometryTypes = "0.0.0 - 0.8"
 julia = ["0.7", "1"]

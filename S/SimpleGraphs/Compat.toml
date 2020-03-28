@@ -1,13 +1,13 @@
 [0]
-DataStructures = "0"
+DataStructures = "0.0.0 - 0.17"
 IterTools = "0-1"
-LightXML = "0"
-Optim = "0"
-Polynomials = "0"
-Primes = "0"
-SimplePartitions = "0"
-SimpleRandom = "0"
+LightXML = "0.0.0 - 0.9"
+Optim = "0.0.0 - 0.20"
+Polynomials = "0.0.0 - 0.6"
+Primes = "0.0.0 - 0.4"
+SimplePartitions = "0.0.0 - 0.2"
+SimpleRandom = "0.0.0 - 0.2"
 julia = ["0.7", "1"]
 
 ["0.2.5-0"]
-AbstractLattices = "0"
+AbstractLattices = "0.0.0 - 0.1"

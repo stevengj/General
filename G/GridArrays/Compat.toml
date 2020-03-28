@@ -1,2 +1,10 @@
 [0]
+DomainSets = "0.0.0 - 0.2"
+FastGaussQuadrature = "0.0.0 - 0.4"
+GaussQuadrature = "0.0.0 - 0.5"
+RecipesBase = "0.0.0 - 0.8"
+StaticArrays = "0.0.0 - 0.12"
 julia = "1"
+
+["0.1-0"]
+FillArrays = "0.0.0 - 0.8"

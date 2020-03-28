@@ -1,2 +1,5 @@
 [0]
+LightGraphs = "0.0.0 - 1"
+MetaGraphs = "0.0.0 - 0.6"
+SnoopCompile = "0.0.0 - 1"
 julia = "1"

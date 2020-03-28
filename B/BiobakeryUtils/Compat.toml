@@ -1,6 +1,6 @@
-["0-0.1"]
-CSV = "0"
-DataFrames = "0"
+[0]
+CSV = "0.0.0 - 0.6"
+DataFrames = "0.0.0 - 0.20"
 Microbiome = ["0.3", "0.4"]
-RCall = "0"
+RCall = "0.0.0 - 0.13"
 julia = ["0.7", "1.0"]

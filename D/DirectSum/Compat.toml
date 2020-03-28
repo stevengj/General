@@ -1,8 +1,8 @@
 ["0-0.2.2"]
 julia = ["0.7", "1"]
 
-["0.2.0"]
-StaticArrays = "0"
+["0.2-0"]
+StaticArrays = "0.0.0 - 0.12"
 
 ["0.2.3-0"]
 julia = "1"
@@ -11,4 +11,3 @@ julia = "1"
 AbstractTensors = "0.4.2-0.4"
 Combinatorics = "1"
 ComputedFieldTypes = "0.1"
-StaticArrays = "0"

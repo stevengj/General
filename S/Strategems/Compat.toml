@@ -1,4 +1,4 @@
 [0]
-Indicators = "0"
-Temporal = "0"
+Indicators = "0.0.0 - 0.7"
+Temporal = "0.0.0 - 0.7"
 julia = ["0.7", "1"]

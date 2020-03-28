@@ -1,2 +1,4 @@
 [0]
+DataStructures = "0.0.0 - 0.17"
+LLVM = "0.0.0 - 1"
 julia = "1"

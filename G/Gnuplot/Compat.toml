@@ -1,6 +1,6 @@
 [1]
-ColorTypes = "0"
-ReusePatterns = "0"
-StatsBase = "0"
-StructC14N = "0"
+ColorTypes = "0.0.0 - 0.10"
+ReusePatterns = "0.0.0 - 0.1"
+StatsBase = "0.0.0 - 0.33"
+StructC14N = "0.0.0 - 0.2"
 julia = "1"

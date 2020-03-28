@@ -1,0 +1,4 @@
+[0]
+CSV = "0.0.0 - 0.6"
+DataFrames = "0.0.0 - 0.20"
+DataStructures = "0.0.0 - 0.17"

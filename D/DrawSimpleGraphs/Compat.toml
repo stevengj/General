@@ -1,10 +1,10 @@
 [0]
-Plots = "0"
-SimpleGraphs = "0"
+Plots = "0.0.0 - 0.29"
+SimpleGraphs = "0.0.0 - 0.3"
 julia = ["0.7", "1"]
 
 ["0-0.1.0"]
-GR = "0"
+GR = "0.0.0 - 0.48"
 
 ["0.1.1-0"]
-SimpleDrawing = "0"
+SimpleDrawing = "0.0.0 - 0.2"

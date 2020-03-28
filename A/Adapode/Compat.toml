@@ -2,5 +2,5 @@
 AbstractTensors = "0.4"
 DirectSum = "0.5"
 Grassmann = "0.5"
-StaticArrays = "0"
+StaticArrays = "0.0.0 - 0.12"
 julia = "1"
