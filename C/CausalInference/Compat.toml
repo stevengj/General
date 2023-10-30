@@ -23,6 +23,9 @@ LinkedLists = "0.1"
 OffsetArrays = "1.12.0-1"
 ProgressMeter = "1.9.0-1"
 
+["0.12.1-0"]
+Statistics = "1"
+
 ["0.5-0"]
 Combinatorics = "1"
 NearestNeighbors = "0.4"
